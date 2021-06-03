@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles Rex. His Majestyes declaration, to all His loving subjects of His kingdom of England and dominion of Wales.</title>
+            <title>Miscellaneous Documents. 1651-08-05</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19273</idno><idno type="EEBO-CITATION">99886272</idno>
+  <idno type="VID">188462</idno>
+  <idno type="EEBO-PROQUEST">2240890952</idno>
+  
+            <idno type="STC">Wing C2982</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.11[49]</idno>
+            <idno type="STC">ESTC R225776</idno>
+            <idno type="PROQUEST">ocm99886272</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886272e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188462)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:3[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles Rex. His Majestyes declaration, to all His loving subjects of His kingdom of England and dominion of Wales.</title>
+                  <title>Miscellaneous Documents. 1651-08-05</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Brown,</publisher>
+                  <pubPlace>Aberdeen :</pubPlace>
+                  <date>the 20 of August 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Arms: crown 78·98; Steele notation: betwixt OUR And.</note>
+                  <note>Dated at end: Given at Our royall campe, at Woodhouse the 5 of August 1651.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188462:1"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of a crown</figDesc>
+               </figure>CHARLES REX. HIS MAJESTYES Declaration, to all HIS loving Subjects of His KINGDOM of England and Dominion of Wales.</head>
+            <p>WEE Shall not rype vp the CAUSES of the vnhappy Differences, betwixt OUR ROYALL Father, and the Two Houses of PARLIAMENT; IT shall be our Study, that they be for ever buried: AND that our Subjects of ENGLAND may returne to the Obedience they owe Us, as their lawfull KING: And to the Ancient and happy Governement of the Kingdom, by King, Lords, &amp; Commons (Wherein they and their Ancestors have lived so long so happily) Without the Effusion of more Blood. WITH these Thoughts wee are now returning vnto our Kingdom of ENGLAND, with an Army by the blessing of GOD, able to protect our Loyall Subjects, who shall joyne with vs and assist vs in doing Iustice vpon Murtherers of our Royall Father: And to defend vs from the Violence of such as will continue the exclusion of Us from Our just RIGHTS, the subversion of the lawfull Governement of the Kingdom, and the oppression of our good Subjects by Armies &amp; exorbitant impositions. And before wee enter the Kingdom; Wee have thought fitt by this short DECLARATION to let our good Subjects there know, that our desyres are not more to be restored to our own Rights, than to procure and mantayn to them their Fredom; And as wee have given full and inteere Satisfaction to Our subjects of SCOTLAND, both in what might concerne Religion, and their Lawes, and Libertyes (Which GOD willing wee shall inviolably preserve to them) So it shall be our Study, and would bee our greatest joy, that wee might attayne the same happieness in ENGLAND: And because wee do think our selves bound in Duety to look more at the Glory of GOD, than Our own interest.</p>
+            <p>VVee do in the First Place Declare; That wee shall faythfullie endeavour in Our STATION and CALLING, as Wee are bound by the CO<g ref="char:EOLhyphen"/>VENANT, to setle Religion in Doctrine, Worship, Disciplene, and Governement; according to the WORD of GOD, and example of the best Reformed Churches.</p>
+            <p>VVee shall also endeavour; That Parliaments may bee restored to their Freedome, and Priviledges, by whose advyse We do declare Our Resolutions are to governe, and to setle all Differences and distempers; That our people may enjoy their Libertie, and Propertie free from Armyes, Quarterings, or illegall impositions.</p>
+            <p>These being our cleare Intentions and Resolutions; Wee do exspect and invite all our good subjects of ENGLAND, to concurre with, and asist vs according to their Duety &amp; alleadgence; and such as are in Arms eyther in SCOTLAND or ENGLAND, vnder Oliver Cromwell present<g ref="char:EOLhyphen"/>lie after knowledge heereof, to lay them down, or to come in, and joyne with vs in our Army, where they shall receive protection and full assurance of Satisfaction in their Arreires. AND to evidence how farr we are from Revenge, or continueing the vnhappy Differences betwixt vs and our subjects; Wee do declare and engage our Selves to give our consent to a full Act of Oblivion, and indemnity for the Securitie of all our Subjects of ENGLAND in their persons, fredomes, and estates for all things don by them: relateing to the Warres, these eleaveenth years past: And that they shall never bee called in question by vs for any of them; Provyding that immediatly after knowledge of this gracious Offer and DECLARATION, they desist from assisting the vsurped Authoritie of the pretended Common-wealth of ENGLAND, and returne to their Obedience to Us, excepting only from this Our gracious offer; Oliver Cromwell, Henry Ireton, Iohn Breadshaw, Iohn Cooke, their pretended solicitor, and all others who did actuallie sitt &amp; vote in the Murther, of Our Royall Father.</p>
+            <p>AND seing in this Service; Wee have made vse of the affection, and assistance of our Loyall Subjects of our Kingdome of SCOTLAND, who cannot possiblie mantayn their whole Army in ENGLAND; Wee do requyre some of quality or authoritie in each Countie where wee shall march to come to Us, that necessary provisions may be regularlie brought in to the Army. And wee do declare that the Counties, from whom such shall come, shall receive no other prejudice, except such of them as shall oppose vs, or drive away their cattell or provisions from vs. And because it shall be our mayne endeavour that our subjects of ENGLAND may bee safe in their persons, free in their goods, and as little burthened as is possible: As we are resolved to permitt no plundering or raping, or taking any mans person (who is not in actuall opposition of Us:) Which wee shall not with all severi<g ref="char:EOLhyphen"/>tie punish: So if our army shall bee forced to be more burdensome to some places and persons, than to others; It shall be our endeavour that as soone as is possible they may receive proportionable satisfaction, and the Burthen be made equall.</p>
+            <p>AND lastly; Wee do declare, that the service being done: The SCOTS Army shall quietly retiere; That so all Armyes may bee disbanded And an lasting peace setled with Religion and Righteousnes.</p>
+            <closer>
+               <dateline>GIVEN at Our Royall Campe, at Woodhouss <date>the 5 of August 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>ABERDENE Printed by James Brown, the 20 of August 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
